@@ -26,3 +26,4 @@ cd rokid-discord-bridge
 3. 连接到 Rokid 眼镜
 4. 配置 Discord Bot Token
 5. 开始对话！
+# Trigger build 2026年 2月20日 星期五 19时28分27秒 CST
